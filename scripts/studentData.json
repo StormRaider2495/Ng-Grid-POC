@@ -1,0 +1,239 @@
+[{
+        "name": "Arunit",
+        "age": 21,
+        "location": "California",
+        "allowance": 505,
+        "pass": true
+    },
+    {
+        "name": "Tiancum",
+        "age": 24,
+        "location": "Bangalore",
+        "allowance": 23,
+        "pass": false
+    },
+    {
+        "name": "Jacob",
+        "age": 22,
+        "location": "Vizag",
+        "allowance": 22,
+        "pass": false
+    },
+    {
+        "name": "Nephi",
+        "age": 21,
+        "location": "California",
+        "allowance": 29,
+        "pass": false
+    },
+    {
+        "name": "Enos",
+        "age": 23,
+        "location": "Bangalore",
+        "allowance": 24,
+        "pass": false
+    },
+    {
+        "name": "Ether",
+        "age": 23,
+        "location": "Chennai",
+        "allowance": 42,
+        "pass": false
+    },
+    {
+        "name": "Alma",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 43,
+        "pass": true
+    },
+    {
+        "name": "Jared",
+        "age": 25,
+        "location": "Kakinada",
+        "allowance": 21,
+        "pass": true
+    },
+    {
+        "name": "Moroni",
+        "age": 23,
+        "location": "Nagpur",
+        "allowance": 50,
+        "pass": true
+    },
+    {
+        "name": "Tiancum",
+        "age": 23,
+        "location": "Chennai",
+        "allowance": 23,
+        "pass": false
+    },
+    {
+        "name": "Jacob",
+        "age": 20,
+        "location": "Vizag",
+        "allowance": 22,
+        "pass": false
+    },
+    {
+        "name": "Nephi",
+        "age": 65,
+        "location": "California",
+        "allowance": 29,
+        "pass": false
+    },
+    {
+        "name": "Enos",
+        "age": 33,
+        "location": "Chennai",
+        "allowance": 24,
+        "pass": false
+    },
+    {
+        "name": "Ether",
+        "age": 20,
+        "location": "Chennai",
+        "allowance": 42,
+        "pass": false
+    },
+    {
+        "name": "Alma",
+        "age": 35,
+        "location": "Nagpur",
+        "allowance": 43,
+        "pass": true
+    },
+    {
+        "name": "Jared",
+        "age": 23,
+        "location": "Bangalore",
+        "allowance": 21,
+        "pass": true
+    },
+    {
+        "name": "Moroni",
+        "age": 22,
+        "location": "Kakinada",
+        "allowance": 50,
+        "pass": true
+    },
+    {
+        "name": "Tiancum",
+        "age": 23,
+        "location": "Bangalore",
+        "allowance": 23,
+        "pass": false
+    },
+    {
+        "name": "Jacob",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 22,
+        "pass": false
+    },
+    {
+        "name": "Nephi",
+        "age": 22,
+        "location": "Chennai",
+        "allowance": 29,
+        "pass": false
+    },
+    {
+        "name": "Enos",
+        "age": 22,
+        "location": "California",
+        "allowance": 24,
+        "pass": false
+    },
+    {
+        "name": "Ether",
+        "age": 22,
+        "location": "Bangalore",
+        "allowance": 42,
+        "pass": false
+    },
+    {
+        "name": "Alma",
+        "age": 22,
+        "location": "Chennai",
+        "allowance": 43,
+        "pass": true
+    },
+    {
+        "name": "Jared",
+        "age": 22,
+        "location": "Bangalore",
+        "allowance": 21,
+        "pass": true
+    },
+    {
+        "name": "Moroni",
+        "age": 20,
+        "location": "Vizag",
+        "allowance": 50,
+        "pass": true
+    },
+    {
+        "name": "Tiancum",
+        "age": 22,
+        "location": "Bangalore",
+        "allowance": 23,
+        "pass": false
+    },
+    {
+        "name": "Jacob",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 22,
+        "pass": false
+    },
+    {
+        "name": "Nephi",
+        "age": 20,
+        "location": "Chennai",
+        "allowance": 29,
+        "pass": false
+    },
+    {
+        "name": "Enos",
+        "age": 20,
+        "location": "Kakinada",
+        "allowance": 24,
+        "pass": false
+    },
+    {
+        "name": "Ether",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 42,
+        "pass": false
+    },
+    {
+        "name": "Alma",
+        "age": 20,
+        "location": "Chennai",
+        "allowance": 43,
+        "pass": true
+    },
+    {
+        "name": "Jared",
+        "age": 20,
+        "location": "California",
+        "allowance": 21,
+        "pass": true
+    },
+    {
+        "name": "Moroni",
+        "age": 20,
+        "location": "Chennai",
+        "allowance": 50,
+        "pass": true
+    },
+    {
+        "name": "Tiancum",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 23,
+        "pass": false
+    }
+]

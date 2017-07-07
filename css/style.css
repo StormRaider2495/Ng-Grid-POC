@@ -1,0 +1,17 @@
+.gridStyle {
+    border: 1px solid rgb(212, 212, 212);
+    width: 600px;
+    height: 300px;
+    margin: 30px auto;
+    box-shadow: 6px 6px 9px 0px rgb(51, 69, 86);
+}
+
+.selected {
+    background-color: #009688;
+    color: white;
+    border: 1px solid #d4d4d4;
+}
+
+.selectedItems {
+    float: left;
+}

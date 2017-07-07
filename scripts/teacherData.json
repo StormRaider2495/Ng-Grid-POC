@@ -1,0 +1,239 @@
+[{
+        "name": "Arunit Mazumdar",
+        "age": 41,
+        "location": "California",
+        "allowance": 505,
+        "tcc": true
+    },
+    {
+        "name": "Tiancum Holland",
+        "age": 34,
+        "location": "Bangalore",
+        "allowance": 503,
+        "tcc": false
+    },
+    {
+        "name": "Jacob Steiner",
+        "age": 52,
+        "location": "Vizag",
+        "allowance": 270,
+        "tcc": false
+    },
+    {
+        "name": "Nephi Delgado",
+        "age": 41,
+        "location": "California",
+        "allowance": 290,
+        "tcc": false
+    },
+    {
+        "name": "Enos Enos",
+        "age": 45,
+        "location": "Bangalore",
+        "allowance": 340,
+        "tcc": false
+    },
+    {
+        "name": "Ether McClain",
+        "age": 53,
+        "location": "Chennai",
+        "allowance": 420,
+        "tcc": false
+    },
+    {
+        "name": "Alma Kush",
+        "age": 30,
+        "location": "Nagpur",
+        "allowance": 430,
+        "tcc": true
+    },
+    {
+        "name": "Jared Weasley",
+        "age": 45,
+        "location": "Kakinada",
+        "allowance": 410,
+        "tcc": true
+    },
+    {
+        "name": "Moroni Marconi",
+        "age": 45,
+        "location": "Nagpur",
+        "allowance": 500,
+        "tcc": true
+    },
+    {
+        "name": "Tiancum Holland",
+        "age": 53,
+        "location": "Chennai",
+        "allowance": 530,
+        "tcc": false
+    },
+    {
+        "name": "Jacob Steiner",
+        "age": 60,
+        "location": "Vizag",
+        "allowance": 270,
+        "tcc": false
+    },
+    {
+        "name": "Nephi Delgado",
+        "age": 65,
+        "location": "California",
+        "allowance": 290,
+        "tcc": false
+    },
+    {
+        "name": "Enos Enos",
+        "age": 33,
+        "location": "Chennai",
+        "allowance": 340,
+        "tcc": false
+    },
+    {
+        "name": "Ether McClain",
+        "age": 40,
+        "location": "Chennai",
+        "allowance": 420,
+        "tcc": false
+    },
+    {
+        "name": "Alma Kush",
+        "age": 35,
+        "location": "Nagpur",
+        "allowance": 430,
+        "tcc": true
+    },
+    {
+        "name": "Jared Weasley",
+        "age": 45,
+        "location": "Bangalore",
+        "allowance": 410,
+        "tcc": true
+    },
+    {
+        "name": "Moroni Marconi",
+        "age": 30,
+        "location": "Kakinada",
+        "allowance": 500,
+        "tcc": true
+    },
+    {
+        "name": "Tiancum Holland",
+        "age": 23,
+        "location": "Bangalore",
+        "allowance": 530,
+        "tcc": false
+    },
+    {
+        "name": "Jacob Steiner",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 270,
+        "tcc": false
+    },
+    {
+        "name": "Nephi Delgado",
+        "age": 27,
+        "location": "Chennai",
+        "allowance": 290,
+        "tcc": false
+    },
+    {
+        "name": "Enos Enos",
+        "age": 27,
+        "location": "California",
+        "allowance": 340,
+        "tcc": false
+    },
+    {
+        "name": "Ether McClain",
+        "age": 26,
+        "location": "Bangalore",
+        "allowance": 420,
+        "tcc": false
+    },
+    {
+        "name": "Alma Kush",
+        "age": 28,
+        "location": "Chennai",
+        "allowance": 430,
+        "tcc": true
+    },
+    {
+        "name": "Jared Weasley",
+        "age": 27,
+        "location": "Bangalore",
+        "allowance": 410,
+        "tcc": true
+    },
+    {
+        "name": "Moroni Marconi",
+        "age": 30,
+        "location": "Vizag",
+        "allowance": 500,
+        "tcc": true
+    },
+    {
+        "name": "Tiancum Holland",
+        "age": 28,
+        "location": "Bangalore",
+        "allowance": 530,
+        "tcc": false
+    },
+    {
+        "name": "Jacob Steiner",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 270,
+        "tcc": false
+    },
+    {
+        "name": "Nephi Delgado",
+        "age": 30,
+        "location": "Chennai",
+        "allowance": 290,
+        "tcc": false
+    },
+    {
+        "name": "Enos Enos",
+        "age": 40,
+        "location": "Kakinada",
+        "allowance": 340,
+        "tcc": false
+    },
+    {
+        "name": "Ether McClain",
+        "age": 40,
+        "location": "Nagpur",
+        "allowance": 420,
+        "tcc": false
+    },
+    {
+        "name": "Alma Kush",
+        "age": 50,
+        "location": "Chennai",
+        "allowance": 430,
+        "tcc": true
+    },
+    {
+        "name": "Jared Weasley",
+        "age": 60,
+        "location": "California",
+        "allowance": 410,
+        "tcc": true
+    },
+    {
+        "name": "Moroni Marconi",
+        "age": 50,
+        "location": "Chennai",
+        "allowance": 500,
+        "tcc": true
+    },
+    {
+        "name": "Tiancum Holland",
+        "age": 20,
+        "location": "Nagpur",
+        "allowance": 530,
+        "tcc": false
+    }
+]
